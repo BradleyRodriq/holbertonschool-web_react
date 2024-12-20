@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Notifications from '../Notifications/Notifications.jsx';
-import holbertonLogo from './assets/holberton-logo.jpg';
+import holbertonLogo from '../assets/holberton-logo.jpg';
 import { getFooterCopy, getFullYear } from '../utils/utils.js';
 
 const App = () => {
