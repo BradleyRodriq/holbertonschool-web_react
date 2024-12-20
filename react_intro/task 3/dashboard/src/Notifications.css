@@ -1,0 +1,21 @@
+.notifications {
+    margin-bottom: 35px;
+    padding: 7px 5px;
+    border: 2px var(--color-red) solid;
+    border-style: dotted;
+    margin: 20px;
+  
+    font-size: 32px;
+  }
+
+  
+.Notifications ul {
+  padding-left: 56px;
+}
+
+[data-priority="default"] {
+  color: navy;
+}
+[data-priority="urgent"] {
+  color: red;
+}
