@@ -1,6 +1,8 @@
-.Notifications {
+.notifications {
     padding: 20px;
     border: 4px var(--color-red) solid;
+    border-style: dotted;
+    margin: 20px;
   
-    font-size: 24px;
+    font-size: 32px;
   }
